@@ -15,9 +15,9 @@ Nossos projetos abrangem áreas como:
 - Ferramentas de gestão ambiental
 - Automação de processos
 
-## Saiba Mais
+## Contato
 
-Para mais informações sobre nossos serviços, visite nosso site: [tommasiambiental.com.br](https://tommasiambiental.com.br/)
+Para mais informações institucionais ou parcerias tecnológicas, visite nosso site ou utilize os canais de contato oficiais.
 
 ---
 
